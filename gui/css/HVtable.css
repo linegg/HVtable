@@ -1,0 +1,111 @@
+.inputStyle{
+    padding:5px;
+    width:100%;
+}
+
+td{
+    padding:3px;
+    font-size:13px;
+}
+
+th{
+    font-weight: inherit;
+    padding:3px;
+    font-size:14px;
+}
+
+.modal-backdrop{
+
+}
+
+.modal-backdrop.in {
+    filter: alpha(opacity=0);
+    opacity: 0;
+}
+
+.modal-backdrop.fade {
+    filter: alpha(opacity=0);
+    opacity: 0;
+}
+
+.modal-backdrop {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 1040;
+    background-color: #ffffff;
+}
+
+.readonlyStyle{
+    background-color:lightgray;
+    readonly:expression(this.readOnly=true);
+}
+
+.tableNameStyle{
+    text-align:center;
+    background-color: green;
+    color:white;
+    font-weight:bold;
+}
+
+.rowStyle{
+    text-align:center;
+    background-color: #ADD8E6;
+}
+
+.columnStyle{
+    text-align:center;
+    background-color: #ADD8E6;
+}
+
+.remarkStyle{
+    background-color:lightyellow;
+}
+
+.edit{
+    background-color:lightcyan;
+}
+
+.displayNone{
+    display:none;
+}
+
+.isPostil{
+    background-color:#FFF0F5;
+}
+
+.remarkStyle pre{
+    font-family:microsoft-yahei;
+    border: none;
+    background-color: lightyellow;
+    margin:2px;
+}
+
+a{
+    color:black;
+}
+
+h6,h5,h4,h3,h2,h1,p,b,span{
+    margin-top:3px;
+    margin-bottom:3px;
+}
+
+.textStyle{
+    width:100%;
+    height:100px;
+}
+
+.rightAlign{
+    text-align:right;
+}
+
+.help{
+	color:blue;
+	text-decoration: underline;
+}
+
+.tabBtn{
+	margin:1px;
+}
