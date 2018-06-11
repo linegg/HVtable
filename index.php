@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>HVtable</title>
+    <title>HVtableMMMM</title>
     <meta charset="utf-8"/>
     <link rel="stylesheet" type="text/css" href="./gui/css/bootstrap.css">
     <link rel="stylesheet" type="text/css" href="./gui/css/HVtable.css">
