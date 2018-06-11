@@ -1,7 +1,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title></title>
+    <title>SSS</title>
 	<link rel="stylesheet" type="text/css" href="./gui/css/bootstrap.css"/>
     <link rel="stylesheet" type="text/css" href="./summernote-master/dist/summernote.css"/>
     <link rel="stylesheet" type="text/css" href="./gui/css/HVtable.css"/>
